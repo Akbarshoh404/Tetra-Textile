@@ -1,0 +1,77 @@
+{
+    "language": "Til",
+    "nav_p1": "Asosiy",
+    "nav_p2": "Biz haqimizda",
+    "nav_p3": "Mahsulotlar",
+    "nav_p4": "Bog'lanish",
+    "mainText": "Trikotaj mahsulotlarini ishlab chiqarish bo'yicha sanoat korxonasi",
+    "miniText": "Bog'lanish",
+    "footerText": "Trikotaj mahsulotlarini ishlab chiqarish bo'yicha sanoat korxonasi",
+    "location": "Binokor mikrorayoni, Yangihayot tumani",
+    "locationText": "Joylashuv",
+    "phoneNumberText": "Telefon raqam",
+    "emailText": "Elektron pochta",
+    "usefulLinks": "Foydali havolalar",
+    "joinText": "Bizga qo'shiling",
+    "firstNmb": "Kuniga to'qilish hajmi (tonna)",
+    "secondNmb": "Doimiy mijozlar soni",
+    "thirdNmb": "Xizmat ko'rsatgan mijozlarimiz",
+    "miniAboutUs" : "Qisqacha biz haqimizda",
+    "aboutUsTxtMini" : "Tetra Nb Textile sanoat kompaniyasi 2020-yil 12-fevral oyidan xizmat ko'rsatishni boshlab, hali hamon sizga sifatli matolarni ishlab chiqarishda davom etmoqda. ",
+    "ourPartners" : "Bizning hamkorlarimiz",
+    "sotuvTxt" : "Sotuv bo'limi",
+    "telefonTxt" : "Telefon",
+    "number1" : "Akmaljon: +998 90 350 42 00",
+    "number2" : "Nodirbek: +998 94 637 65 06",
+    "manzilTxt" : "Manzil",
+    "adressTxt" : "Binokor mikrorayon, Yangihayot tumani, Toshkent shahar",
+    "sendMsgTxt" : "Bizga xabar qoldiring",
+    "Number" : "Telefon raqam",
+    "Name" : "Ism",
+    "Message" : "Xabar",
+    "Submit" : "Jo'natish",
+
+    
+    "aboutTxtTopic": "Kompaniyamiz to'qimachilik sohasida liderlik: Innovatsiya va Sifatga ajratilgan Mahsulotlar",
+    "aboutTxt" : "Bizning kompaniya to'qimachilik sohasida eng katta ishlab chiqaruvchilar orasida hisoblanadi. Bizning mahsulotlarimizning sifati va dizayni dunyo bo'ylab tan olingan markalardan, masalan, Suprem, Kashkorse, Karde kabi ishonchli va mehmonnavoz matollar bilan ishlab chiqariladi. Biz ip va matolarni yaratishda eng yuqori sifat va innovatsiyalardan foydalanamiz. Pike, ikki ipli, uch ipli va ribana kabi turli matolarni ishlab chiqarishda keng ko'lamli kengaytirishning zarur elementlarini qo'llaymiz.",
+    
+    "about1Txt" : "Bizning kompaniyamizda katta e'tibor muvofiqligi va sifatni ta'minlash uchun keng xizmatlarni o'rganish va innovatsiyalar qilish uchun talabgorlar guruhi mavjud. Bizni boshqalar bilan farq qiladigan narsa, bizning ishlab chiqarish jarayonimizda ishonchli va samarali bo'lganligi hisobga olinadi.",
+    "about2Txt" : "Bizning kompaniya doimiy rivojlanishga, sifatni saqlab qolishga va mijozlarga eng yaxshi to'qimachilik mahsulotlarini taqdim etishga ajratilgan. Bizning asosiy maqsadimiz - mijozlarimizning talablarini qondirish, ularning har bir talabini qamrab olish va ularga qulaylik, samarali narxlarni taqdim etish orqali ularga eng yaxshi to'qimachilik mahsulotlarini taklif etishdir.",
+    "about3Txt" :  "Mijozlarimiz uchun eng yaxshi sifatni taqdim etishning yanada yuqori bosqichlarini olish uchun bizning mutaxassislar guruhi doimiy ravishda yangi texnologiyalardan foydalanish va sohasidagi so'nggi islohotlarga e'tibor berishadi. Bu bizga to'qimachilik sohasidagi liderlikimizni ta'minlashga yordam beradi.",
+    
+    "hamkorTxt" : "Bizning Hamkorlarimiz",
+
+
+    "ourProducts": "Bizning mahsulotlarimiz",
+
+    "1productName": "Suprem",
+    "1productTxt": "Suprem - o'zining nozikligi va silliqligi bilan ajralib turadigan trikotaj matoning bir turi",
+    
+    "2productName": "Futer",
+    "2productTxt": "Futer - tabiiy paxtadan qilingan mato. Juda yumshoq, nozik va oddiy material",
+    
+    "3productName": "Pike",
+    "3productTxt": "Pike – relyef yuzali qalin paхtali mato. Material havoni yaхshi o'tkazadi, g'ijim bo'lmaydi va pishiq bo'ladi",
+    
+    "4productName": "Ribana",
+    "4productTxt": "O’rta qalinlikda bo’lgan, paxta trikotaj, kichik chiziqlar bilan ishlab chiqarilgan, tarkibida laykra qo'shilgan mato",
+    
+    "5productName": "Interlok",
+    "5productTxt": "Interlok - bu old tomondan ham, ichkaridan ham bir xil ko'rinadigan tabiiy paxtadan tikilgan juft trikotaj",
+    
+    "6productName": "Ikki ipli",
+    "6productTxt": "Ikki ipli - juft iplar bilan to'qilgan trikotaj mato. Matoning tarkibi tabiiy va sintetik tolalarni o'z ichiga oladi",
+    
+    "7productName": "Jakkard",
+    "7productTxt": "Chiroyli va teksturali hamda to'quv iplari bilan yaratilgan katta naqshli mato",
+    
+    "8productName": "Velyur",
+    "8productTxt": "Velyur bu toza jun tolalaridan to'qiladigan kalta tukli gazlama yoki kalta va mayin tukli mato",
+    
+    "9productName": "Uch ipli",
+    "9productTxt": "Uch ipli - ichki tomoni junli va tashqi tomoni silliq bo'lgan qalin material",
+    
+    "plsFill": "Iltimos, bo'sh qatorlarni to'ldiring❌",
+    "success": "Jo'natildi✅"
+    
+}
